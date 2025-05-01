@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.6f268e5d.css",
-    "main.js": "/personal-website/static/js/main.702ce4eb.js",
+    "main.css": "/personal-website/static/css/main.29abee89.css",
+    "main.js": "/personal-website/static/js/main.9b801549.js",
     "static/js/453.253ccfac.chunk.js": "/personal-website/static/js/453.253ccfac.chunk.js",
+    "static/media/dance.jpg": "/personal-website/static/media/dance.d63e8b1c487fa738321b.jpg",
     "static/media/graph-short.png": "/personal-website/static/media/graph-short.38c137d8b4ce081e8e75.png",
     "static/media/article.png": "/personal-website/static/media/article.d96fc669c25f79e542e7.png",
     "static/media/courseplan.png": "/personal-website/static/media/courseplan.0fbf1fc0878c23d4bc96.png",
@@ -23,12 +24,12 @@
     "index.html": "/personal-website/index.html",
     "static/media/email.svg": "/personal-website/static/media/email.276a42b0b6f07894395a0c1155f075d2.svg",
     "static/media/arrow.svg": "/personal-website/static/media/arrow.c82eeeb17092c78efe21435be35d7167.svg",
-    "main.6f268e5d.css.map": "/personal-website/static/css/main.6f268e5d.css.map",
-    "main.702ce4eb.js.map": "/personal-website/static/js/main.702ce4eb.js.map",
+    "main.29abee89.css.map": "/personal-website/static/css/main.29abee89.css.map",
+    "main.9b801549.js.map": "/personal-website/static/js/main.9b801549.js.map",
     "453.253ccfac.chunk.js.map": "/personal-website/static/js/453.253ccfac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f268e5d.css",
-    "static/js/main.702ce4eb.js"
+    "static/css/main.29abee89.css",
+    "static/js/main.9b801549.js"
   ]
 }
